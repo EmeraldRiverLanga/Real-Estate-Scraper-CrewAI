@@ -1,0 +1,11 @@
+selenium
+pandas
+beautifulsoup4
+langchain-openai
+python-dotenv
+llama-index-core
+llama-index-llms-openrouter
+sqlalchemy
+langchain-core
+crewai 
+pytest
